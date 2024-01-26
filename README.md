@@ -1,18 +1,23 @@
-# Apiculture "Game of life" simulation 
+# Apiculture "Game of Life" Simulation 
 
 ## Description
-This project, developed during the Object-Oriented Programming module at CPE Lyon, aims to create an ecosystem simulation featuring various agents such as bees, hornets, trees, etc. The ecosystem evolves over time with interactions between the agents.
+This project, developed during the Object-Oriented Programming module at CPE Lyon, presents a comprehensive ecosystem simulation featuring various agents like bees, hornets, trees, etc. The project emphasizes dynamic interactions between these agents, creating a realistic and evolving ecosystem.
 
 ## Project Structure
-The project is organized into several Java classes representing different ecosystem elements and agents. Key classes include `World`, `Agent`, `Bee`, `Hornet`, etc.
+The project comprises several Java classes representing different ecosystem elements and agents, fostering a modular and well-organized codebase. Key classes include `World`, `Agent`, `Bee`, `Hornet`, etc.
 
 ## Main Features
-- Movement and interaction of agents.
-- Management of bee populations in a hive.
-- Simulation of hornet hunting and interactions between agents.
-- Graphical display of the ecosystem with a user interface.
+- **Agent Movement and Interaction:** Simulate the nuanced movement and interaction behaviors of agents, contributing to the complexity of the ecosystem dynamics.
+- **Bee Hive Population Dynamics:** Implement a sophisticated model for bee hive populations, considering factors such as reproduction, resource gathering, and environmental conditions.
+- **Hornet Hunting Strategies:** Develop intricate hunting strategies for hornets, taking into account their prey's behavior and environmental factors.
+- **Resource Management:** Introduce resource elements such as flowers and trees, affecting agent behavior and contributing to the overall ecosystem balance.
 
-## Screenshot of simulation
+## Graphical Interface
+- **Elegant UI Design:** Craft a visually appealing graphical interface that enhances the user experience.
+- **Start and Stop Controls:** Integrate start and stop buttons for convenient user interaction.
+- **Realistic Image Rendering:** Implement a robust image rendering mechanism for agents, providing a lifelike representation within the simulation.
+
+## Screenshot of Simulation
 ![Ecosystem Simulation](https://github.com/Teay2026/Apiculture-Game-of-life-simulation/blob/main/SIMULATION.png)
 
 ## Prerequisites
@@ -20,15 +25,16 @@ The project is organized into several Java classes representing different ecosys
 - Integrated Development Environment (IDE) such as Eclipse, IntelliJ, etc.
 
 ## How to Use
-1. Clone the repository
+1. Clone the repository.
 2. Import the project into your IDE.
 3. Run the `Launcher` class to start the simulation.
 
-
 ## External Dependencies
-The project uses standard Java libraries; no external dependencies are required.
+The project relies on standard Java libraries, eliminating the need for additional external dependencies.
 
 ## Authors
-- Bruno mascret ( tutor ) 
+- Bruno Mascret (Tutor)
 - Tahiri El Alaoui Youness
-- Hadj-Hamdri  Mohammed-Amine
+- Hadj-Hamdri Mohammed-Amine
+
+
