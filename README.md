@@ -12,7 +12,7 @@ The project is organized into several Java classes representing different ecosys
 - Simulation of hornet hunting and interactions between agents.
 - Graphical display of the ecosystem with a user interface.
 
-## Project Image
+## Screenshot of simulation
 ![Ecosystem Simulation](https://github.com/Teay2026/Apiculture-Game-of-life-simulation/blob/main/SIMULATION.png)
 
 ## Prerequisites
